@@ -66,4 +66,4 @@ print(coach)
   coach   team goals
 1   Pep     MC    56
 2  Luis  Barca    89
-3 Carlo Bayern   101
+3 Carlo Bayern   101 
